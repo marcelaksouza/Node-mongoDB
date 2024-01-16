@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-vanilla",
+  "version": "1.0.0",
+  "description": "Vanilla Node.js project ",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev":"nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcelaksouza/Node-mongoDB.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "Marcela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcelaksouza/Node-mongoDB/issues"
+  },
+  "homepage": "https://github.com/marcelaksouza/Node-mongoDB#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
